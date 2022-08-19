@@ -1,6 +1,6 @@
 Package: BiCausality
 Title: Binary Causality Inference Framework
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     person(given = "Chainarong",
            family = "Amornbunchornvej",
@@ -19,8 +19,8 @@ Suggests: knitr, rmarkdown, markdown, igraph
 VignetteBuilder: knitr
 RoxygenNote: 7.1.2
 NeedsCompilation: no
-Packaged: 2022-05-26 03:53:52 UTC; 006005
+Packaged: 2022-08-19 14:15:10 UTC; 006005
 Author: Chainarong Amornbunchornvej [aut, cre]
     (<https://orcid.org/0000-0003-3131-0370>)
 Repository: CRAN
-Date/Publication: 2022-05-26 13:30:15 UTC
+Date/Publication: 2022-08-19 14:40:06 UTC
